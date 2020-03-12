@@ -1,0 +1,10 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://pickhawaiianflowers.files.wordpress.com/2015/05/8.jpeg");
+}
+canvas {
+    display: block;
+
+}
+
